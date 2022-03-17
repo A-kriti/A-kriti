@@ -22,7 +22,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73133055/152651686-8a503e45-80e1-4203-81cb-97e00cc1a12d.gif" width="500"/></p>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
