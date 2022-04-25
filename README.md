@@ -39,6 +39,7 @@
  <a href="https://www.adobe.com/in/products/premiere.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw3MSHBhB3EiwAxcaEu_Ilzd0JoFTSXqpv6p2eBweOYNosS49K-Dkse6BJ5B8v21-dCN1A3RoCLCcQAvD_BwE:G:s&s_kwcid=AL!3085!3!473191824180!e!!g!!premiere%20pro!221167988!56957614501&gclid=CjwKCAjw3MSHBhB3EiwAxcaEu_Ilzd0JoFTSXqpv6p2eBweOYNosS49K-Dkse6BJ5B8v21-dCN1A3RoCLCcQAvD_BwE" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125944200-e2ccaa3b-cda9-4f50-aefd-56d9563aeb91.png" alt="Premiere Pro" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/in/products/aftereffects.html?sdid=STLMM87Z&mv=search&ef_id=CjwKCAjw3MSHBhB3EiwAxcaEu9wmCBdy0e0P9xRxmf2-Yzh35E8hPTg5CJWgKN48asMqCztDfAemfBoCfI8QAvD_BwE:G:s&s_kwcid=AL!3085!3!248207268690!e!!g!!after%20effects!221167268!17525486948&gclid=CjwKCAjw3MSHBhB3EiwAxcaEu9wmCBdy0e0P9xRxmf2-Yzh35E8hPTg5CJWgKN48asMqCztDfAemfBoCfI8QAvD_BwE" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125944249-8cd9fe57-fc21-48df-aae8-070332de479e.png" alt="after effect" width="40" height="40"/> </a>
  <a href="https://www.blender.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/73133055/125944206-fd7fb60f-5d34-4467-b184-7537fce284bc.png" alt="blender" width="40" height="40"/> </a>
+ 
 
 </p>
 
