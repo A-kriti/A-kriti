@@ -3,9 +3,16 @@
 
  <!-- <img src="https://user-images.githubusercontent.com/73133055/126075513-0b5e45b4-f3c4-481e-ac22-959a2aff63e9.gif" width="450"/> --> 
  </p>
-<img src="https://user-images.githubusercontent.com/73133055/125937060-bdd3d3bb-d530-48a4-9bc7-84bd9e2e9bd3.gif" width="350"/>  
+ 
 
-<p align="left"><img src="https://user-images.githubusercontent.com/73133055/125938552-1f60188b-0e98-4907-9e76-46d0800bae8e.gif" width="250"/></p>
+
+
+![Firefly Akriti-hills tree sea greenery clouds flower 22471](https://github.com/A-kriti/A-kriti/assets/73133055/0bb1b468-ee53-410f-98f9-00fdb99add1f)
+
+
+<!--<img src="https://user-images.githubusercontent.com/73133055/125937060-bdd3d3bb-d530-48a4-9bc7-84bd9e2e9bd3.gif" width="350"/>  
+
+<p align="left"><img src="https://user-images.githubusercontent.com/73133055/125938552-1f60188b-0e98-4907-9e76-46d0800bae8e.gif" width="250"/></p>-->
 
 - 🔭 I’m currently pursuing my bachelor's degree in Data Science from IIT Mandi
 - 🌱 I’m currently learning to enjoy my life to the fullest!
